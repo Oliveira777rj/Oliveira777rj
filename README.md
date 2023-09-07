@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=091a80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Michel+tenho+25+anos+;+Carioca;Graduando+em+desenvolvimento+backend:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=091a80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Michel+tenho+25+anos+;+Sou+carioca;Graduando+em+desenvolvimento+backend:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
