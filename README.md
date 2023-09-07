@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=091a80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Michel+tenho+25+anos+;+Sou+carioca;Graduando+em+desenvolvimento+backend:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=091a80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Michel,+Tenho+25+anos+;+Sou+carioca;Graduando+em+desenvolvimento+backend:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -19,10 +19,11 @@
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white&textColor=0D1117)&nbsp;
+
 ![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&textColor=0D1117)&nbsp;
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
 
 
