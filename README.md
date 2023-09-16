@@ -18,7 +18,7 @@
 
 
 ### Studying in this moment:
-![Go](https://img.shields.io/badge/go-0D1117.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&textColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
