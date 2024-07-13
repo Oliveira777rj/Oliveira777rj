@@ -1,5 +1,9 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Michel,+tenho+25+anos+;graduando+em+desenvolvimento+backend)](https://git.io/typing-svg)
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        </samp>
+</h3>
 
 
 <div align="center">  
