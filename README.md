@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-     I am a .NET developer from <b>Brazil</b> 」
+     I am a .NET developer from <b>Brazil</b>
     <br>
     <br>
   </samp>
@@ -34,5 +34,3 @@
 ![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&textColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=091a80&height=120&section=footer"/>
