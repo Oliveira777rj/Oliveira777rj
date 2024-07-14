@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b><a style="color=#fff" target="_blank" href="https://alsiam.com">Michael</a></b>
+                <b><a style="color=#141C2F" "height="195px" target="_blank" href="https://alsiam.com">Michael</a></b>
         </samp>
 </h3>
 
