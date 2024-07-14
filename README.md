@@ -21,7 +21,7 @@
 
  </div>
 <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=green" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
  
@@ -36,6 +36,5 @@
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&textColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=whiteColor=white&textColor=0D1117)&nbsp;
 
