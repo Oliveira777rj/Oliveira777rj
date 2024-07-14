@@ -8,7 +8,7 @@
 <p align="center" style="font=20"> 
   <samp>
     <br>
-     I am a .NET developer from <b>Brazil</b>
+     I am a <b>.NET</b> developer from <b>Brazil</b>
     <br>
   </samp>
 </p>
