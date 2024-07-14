@@ -22,7 +22,7 @@
   </samp>
 </p>
 
-- 👩‍🎓 Backend Development graduate.
+- 👩‍🎓 Backend Development degree.
 - 💻 I'm enthusiastic about both frontend and backend applications, but on the recommendation of my teachers I decided to focus on specializing in Backend.
 - 💼 I'm looking for opportunities that will allow me to grow professionally and contribute to projects.
 - 🌱 I'm open to learning new stacks and languages, especially those that can contribute to my professional and financial growth.
