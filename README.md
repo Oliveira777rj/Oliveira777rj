@@ -22,6 +22,12 @@
   </samp>
 </p>
 
+- 👩‍🎓 Backend Development graduate.
+- 💻 I'm enthusiastic about both frontend and backend applications, but on the recommendation of my teachers I decided to focus on specializing in Backend.
+- 💼 I'm looking for opportunities that will allow me to grow professionally and contribute to projects.
+- 🌱 I'm open to learning new stacks and languages, especially those that can contribute to my professional and financial growth.
+<br>
+
  ##### Social Media:
  </div>
 <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
