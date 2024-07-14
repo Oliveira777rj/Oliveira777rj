@@ -5,7 +5,7 @@
         </samp>
 </h3>
 
-<p align="center"> 
+<p align="center" style="font=18"> 
   <samp>
     <br>
      I am a .NET developer from <b>Brazil</b>
