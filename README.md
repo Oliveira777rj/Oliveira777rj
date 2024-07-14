@@ -14,6 +14,15 @@
   </samp>
 </p>
 
+<p align="center" style="font=18"> 
+  <samp>
+    <br>
+     Hello! I am Michel Oliveira, a graduate in backend development. My goal is to specialize in the development field, and I am looking for opportunities that will allow me to enhance my skills and start my career in this area.</b>
+    <br>
+    <br>
+  </samp>
+</p>
+
 <div align="center">
   <p>Hello! I am Michel Oliveira, a graduate in backend development. My goal is to specialize in the development field, and I am looking for opportunities that will allow me to enhance my skills and start my career in this area.</p>
 </div>
