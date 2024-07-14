@@ -15,8 +15,7 @@
 </p>
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Oliveira777rj&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=0d1117&text_color=c9d1d9&bg_color=0d1117" alt="Michel Oliveira github stats" /> 
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira777rj&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
