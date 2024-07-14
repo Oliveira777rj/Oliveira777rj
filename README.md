@@ -15,10 +15,8 @@
 </p>
 
 
-<p align="center">
-  <img width="41%" height="195px" style="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira777rj&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
-</div>
-</p>
+//Most Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7877rj&layout=donut-vertical)](https://github.com/Oliveira7877rj/github-readme-stats)
 
  </div>
 <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
