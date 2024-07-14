@@ -14,6 +14,10 @@
   </samp>
 </p>
 
+<div align="center">
+  <p>Hello! I am Michel Oliveira, a graduate in backend development. My goal is to specialize in the development field, and I am looking for opportunities that will allow me to enhance my skills and start my career in this area.</p>
+</div>
+
  ### Social Media:
  </div>
 <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
