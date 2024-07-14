@@ -14,11 +14,6 @@
   </samp>
 </p>
 
-
-<!--Most Language -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira777rj&layout=donut-vertical)](https://github.com/Oliveira777rj/github-readme-stats)
-
  </div>
 <a href="https://www.linkedin.com/in/michel-oliveira-054746230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  <a href="https://michel-alpha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-0D1117?style=for-the-badge&logo=About.me&logoColor=FFF" style="border-radius: 30px" target="blank"></a> 
