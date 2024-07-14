@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am 
-                <b><a "height="199px" target="_blank" color=000000>Michel</a></b>
+                <b><a "height="300px" target="_blank" color=000000>Michel</a></b>
         </samp>
 </h3>
 
