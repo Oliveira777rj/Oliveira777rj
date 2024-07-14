@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b><a style="color=#141C2F" "height="195px" target="_blank" href="https://alsiam.com">Michael</a></b>
+                <b><a style="color=141C2F" "height="195px" target="_blank" href="https://alsiam.com">Michael</a></b>
         </samp>
 </h3>
 
@@ -26,9 +26,8 @@
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![Node.JS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=FFF)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FFF)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=FFF)&nbsp;
 
 
 ### Studying in this moment:
