@@ -1,11 +1,11 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am 
-                <b><a "height="195px" target="_blank" href="https://alsiam.com">Michel</a></b>
+                <b><a "height="199px" target="_blank" href="https://alsiam.com">Michel</a></b>
         </samp>
 </h3>
 
-<p align="center" style="font=18"> 
+<p align="center" style="font=20"> 
   <samp>
     <br>
      I am a .NET developer from <b>Brazil</b>
@@ -22,10 +22,6 @@
     <br>
   </samp>
 </p>
-
-<div align="center">
-  <p>Hello! I am Michel Oliveira, a graduate in backend development. My goal is to specialize in the development field, and I am looking for opportunities that will allow me to enhance my skills and start my career in this area.</p>
-</div>
 
  ### Social Media:
  </div>
