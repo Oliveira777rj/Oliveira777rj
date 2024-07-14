@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am 
-                <b><a "height="199px" target="_blank" href="https://alsiam.com">Michel</a></b>
+                <b><a "height="199px" target="_blank" color=0D1117>Michel</a></b>
         </samp>
 </h3>
 
@@ -9,7 +9,6 @@
   <samp>
     <br>
      I am a .NET developer from <b>Brazil</b>
-    <br>
     <br>
   </samp>
 </p>
