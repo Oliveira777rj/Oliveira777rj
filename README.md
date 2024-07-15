@@ -25,7 +25,7 @@
 - 👩‍🎓 Backend Development degree.
 - 💻 I'm enthusiastic about both frontend and backend applications, but on the recommendation of my teachers I decided to focus on specializing in Backend.
 - 💼 I'm looking for opportunities that will allow me to grow professionally and contribute to projects.
-- 🌱 I'm open to learning new stack, language or framework, especially those that can contribute to my professional and financial growth.
+- 🌱  I'm open to learning a new stack, language or framework, especially those that can contribute to my career transition and financial return.
 <br>
 
 <h1></h1>
