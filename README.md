@@ -47,6 +47,6 @@
 	
 
 ##### Studying in this moment:
-![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=whiteColor=white&textColor=fff)&nbsp;
+![AZURE](https://img.shields.io/badge/Microsoft_Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white);
 ![DOCKER](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
 
