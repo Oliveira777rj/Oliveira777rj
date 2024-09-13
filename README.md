@@ -51,6 +51,3 @@
 ![DOCKER](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
 
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/compactlayout?username=Oliveira777rj)](https://github.com/Oliveira777rj/github-readme-stats)
-
