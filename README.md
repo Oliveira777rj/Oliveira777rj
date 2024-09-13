@@ -52,5 +52,5 @@
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Oliveira777rj?username=Oliveira777rj)](https://github.com/Oliveira777rj/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Compactlayout?username=ffflabs)](https://github.com/Oliveira777rj/github-readme-stats)
 
