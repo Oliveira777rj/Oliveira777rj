@@ -50,3 +50,7 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=fff)&nbsp;
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira777rj&hide_progress=true)
+
