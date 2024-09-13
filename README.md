@@ -52,5 +52,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira777rj&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Oliveira777rj?username=Oliveira777rj)](https://github.com/Oliveira777rj/github-readme-stats)
 
